@@ -30,7 +30,7 @@ A Python-based tool that encrypts and decrypts images using **XOR encryption** w
 1. **Run the script:**
 
    ```bash
-  Image Encryption Tool.py
+   Image Encryption Tool.py
    ```
 
 2. **Choose an option:**
